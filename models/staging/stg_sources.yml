@@ -3,4 +3,6 @@ sources:
   - name: e_commerce_raw 
     schema: e_commerce_raw 
     tables:
-      - name: raw_customers 
+      - name: raw_customers
+      - name: raw_orders
+      - name: raw_payments 
